@@ -1,0 +1,37 @@
+# Privacy-sensitive files
+face_dataset/
+*.pkl
+*.npy
+attendance_log.txt
+attendance_log/
+logs/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+myvenv/
+myvenv37/
+venv/
+env/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.log
